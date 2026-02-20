@@ -22,7 +22,7 @@
         "nextcloud-forms-php85",
         "nextcloud-end_to_end_encryption-php85",
         "nextcloud-contacts-php85",
-        "nextcloud-calandar-php85",
+        "nextcloud-calendar-php85",
         "nextcloud-appointments-php85",
         "php85-pecl-imagick",
         "php85-pecl-redis",
