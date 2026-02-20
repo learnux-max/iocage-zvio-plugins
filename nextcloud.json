@@ -11,13 +11,25 @@
     "pkgs": [
         "ffmpeg",
         "nextcloud-php85",
+        "nextcloud-twofactor_webauthn-php85",
+        "nextcloud-twofactor_admin-php85",
+        "nextcloud-tasks-php85",
+        "nextcloud-talk-php85",
+        "nextcloud-notes-php85",
+        "nextcloud-news-php85",
+        "nextcloud-mail-php85",
+        "nextcloud-groupfolders-php85",
+        "nextcloud-forms-php85",
+        "nextcloud-end_to_end_encryption-php85",
+        "nextcloud-contacts-php85",
+        "nextcloud-calandar-php85",
+        "nextcloud-appointments-php85",
         "php85-pecl-imagick",
         "php85-pecl-redis",
         "nginx",
         "mysql94-server",
         "redis",
-        "py311-fail2ban",
-        "py311-certbot-gandi"
+        "py311-fail2ban"
     ],
     "packagesite": "http://pkg.FreeBSD.org/${ABI}/quarterly",
     "fingerprints": {
