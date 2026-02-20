@@ -29,7 +29,6 @@
         "nginx",
         "mysql94-server",
         "redis",
-        "py311-certbot",
         "py311-certbot-dns-gandi",
         "py311-fail2ban"
     ],
