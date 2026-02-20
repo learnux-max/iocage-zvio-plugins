@@ -21,6 +21,7 @@
         "nextcloud-groupfolders-php85",
         "nextcloud-forms-php85",
         "nextcloud-end_to_end_encryption-php85",
+        "nextcloud-deck-php85",
         "nextcloud-contacts-php85",
         "nextcloud-calendar-php85",
         "nextcloud-appointments-php85",
