@@ -29,6 +29,8 @@
         "nginx",
         "mysql94-server",
         "redis",
+        "py311-certbot",
+        "py311-cerbot-dns-gandi",
         "py311-fail2ban"
     ],
     "packagesite": "http://pkg.FreeBSD.org/${ABI}/quarterly",
