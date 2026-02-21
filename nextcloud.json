@@ -5,8 +5,8 @@
     "artifact": "https://github.com/learnux-max/iocage-plugin-nextcloud.git",
     "official": false,
     "properties": {
-        "nat": 1,
-        "nat_forwards": "tcp(80:8282),tcp(443:8283)"
+        "dhcp": 1,
+        "vnet": 1
     },
     "pkgs": [
         "ffmpeg",
