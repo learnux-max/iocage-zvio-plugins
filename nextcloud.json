@@ -15,6 +15,7 @@
         "nextcloud-twofactor_admin-php85",
         "nextcloud-tasks-php85",
         "nextcloud-talk-php85",
+        "nextcloud-spreed-signaling",
         "nextcloud-notes-php85",
         "nextcloud-news-php85",
         "nextcloud-mail-php85",
