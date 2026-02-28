@@ -10,7 +10,7 @@
     },
     "pkgs": [
         "ffmpeg",
-        "nextcloud-php85",
+        "nextcloud-php84",
         "nextcloud-twofactor_webauthn-php84",
         "nextcloud-twofactor_admin-php84",
         "nextcloud-tasks-php84",
